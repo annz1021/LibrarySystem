@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\26755\source\repos\LibrarySystem\LibrarySystem\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\26755\source\repos\LibrarySystem\LibrarySystem\main.cpp(26,17): error C2001: 字符串字面量中的换行符
+C:\Users\26755\source\repos\LibrarySystem\LibrarySystem\main.cpp(27,17): error C2001: 字符串字面量中的换行符
+C:\Users\26755\source\repos\LibrarySystem\LibrarySystem\main.cpp(27,9): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+C:\Users\26755\source\repos\LibrarySystem\LibrarySystem\main.cpp(28,9): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
